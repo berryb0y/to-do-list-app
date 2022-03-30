@@ -73,7 +73,7 @@ function newItem(){
 
      //3(ii). Adding CLASS DELETE (DISPLAY: NONE) from the css:
        function deleteListItem(){
-           li.addclass("delete");
+           li.addClass("delete");
             //  li.classList.add("delete")
          }
      // 4. Reordering the items: 
